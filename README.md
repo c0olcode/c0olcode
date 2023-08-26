@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=YEJINCODE&fontSize=90" />
 
 ### ✨ ABOUT ME ✨
+---
 #### 💻experience💻
+---
 
 - 자료구조 전공과목연계 실습튜터/2021.03.06 ~ 2021.06.16
 - 소프트웨어융합학과 스터디동아리 ‘Muyaho’ 팀장/2021.03.06 ~ 2021.06.30
