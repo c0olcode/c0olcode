@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=YEJINCODE&fontSize=90" />
 
+<!--
 ### ✨ ABOUT ME ✨
----
+--- 
+-->
 #### 💻experience💻
 ---
 
