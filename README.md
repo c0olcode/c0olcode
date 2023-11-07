@@ -26,7 +26,7 @@
 ---
 
 ## 🔭 paper 🔭
-- [복부 CT 영상에서 직소 퍼즐 기반 자기지도학습을 통한 신장 분할.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aa77df8c-7358-4c7e-8cd2-e9eff59a68f3/%EB%B3%B5%EB%B6%80_CT_%EC%98%81%EC%83%81%EC%97%90%EC%84%9C_%EC%A7%81%EC%86%8C_%ED%8D%BC%EC%A6%90_%EA%B8%B0%EB%B0%98_%EC%9E%90%EA%B8%B0%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5%EC%9D%84_%ED%86%B5%ED%95%9C_%EC%8B%A0%EC%9E%A5_%EB%B6%84%ED%95%A0.pdf)
+- CT 영상에서 직소 퍼즐 기반 자기지도학습을 통한 신장 분할 / 2023년도 한국멀티미디어학회 추계학술발표대회
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejincode&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejincode&layout=compact)](https://github.com/yejincode/github-readme-stats)
