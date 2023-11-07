@@ -26,7 +26,7 @@
 ---
 
 ## 🔭 paper 🔭
-- CT 영상에서 직소 퍼즐 기반 자기지도학습을 통한 신장 분할 / 2023년도 한국멀티미디어학회 추계학술발표대회
+- Kidney segmentation through jigsaw puzzle-based self-supervised learning in abdominal CT image / 2023년도 한국멀티미디어학회 추계학술발표대회
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejincode&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejincode&layout=compact)](https://github.com/yejincode/github-readme-stats)
