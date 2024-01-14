@@ -42,6 +42,10 @@ Kidney segmentation through jigsaw puzzle-based self-supervised learning in abdo
 ## 🖊️ GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejincode&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejincode&layout=compact)](https://github.com/yejincode/github-readme-stats)
+![jandi](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 </div>
+
+
+
