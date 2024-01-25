@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=E3A6AE&height=200&section=header&text=YEJINCODE&fontSize=80" />
 
 # 💌 ABOUT ME 💌
-~~아마도 굉장한 사람~~
+
 
 ## 💻 Experience 💻
 
@@ -40,7 +40,6 @@ Kidney segmentation through jigsaw puzzle-based self-supervised learning in abdo
 
 
 ## 🖊️ GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejincode&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejincode&layout=compact)](https://github.com/yejincode/github-readme-stats)
 ![jandi](./profile-3d-contrib/profile-night-rainbow.svg)
 
