@@ -41,6 +41,9 @@ Kidney segmentation through jigsaw puzzle-based self-supervised learning in abdo
 
 ## 🖊️ GitHub stats
 ![jandi](./profile-3d-contrib/profile-night-rainbow.svg)
+<a href="https://github.com/devxb/gitanimals">
+    <img src = "https://render.gitanimals.org/farms/{yejincode}"/>
+</a>
 
 
 </div>
