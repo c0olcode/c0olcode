@@ -1,5 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=E3A6AE&height=200&section=header&text=YEJINCODE&fontSize=80" />
+-->
 
 # 💌 ABOUT ME 💌
 
