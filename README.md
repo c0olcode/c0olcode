@@ -1,8 +1,8 @@
-<!-- <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=E3A6AE&height=200&section=header&text=YEJINCODE&fontSize=80" />
--->
+<!-- <div align="center"> --> 
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=E3A6AE&height=200&section=header&text=c0olcode&fontSize=80" />
 
 # 💌 ABOUT ME 💌
+Backend / DevOps / MLOps (를 잘하고 싶어요)
 
 
 ## 💻 Experience 💻
@@ -13,15 +13,15 @@
 
 정보보호학과 소학회 ‘INTERLUDE’ 활동 / 2021.03.06 ~ 2021.07.01
 
-소프트웨어융합전공 VCMI (Visual Computing and Medical Imaging) 학부연구생 / 2022.01.01 ~ 
+소프트웨어융합전공 VCMI (Visual Computing and Medical Imaging) 학부연구생 / 2022.01.01 ~ 2023.12.31
 
-빅데이터 연합동아리 ’BOAZ’ 데이터 분석 부문 활동 (기획팀) / 2022.07 ~ 2023.07
+빅데이터 연합동아리 ’BOAZ’ 데이터 분석 부문 수료 (기획팀) / 2022.07 ~ 2023.07
 
 모두의 연구소 서포터즈 / 2022.09 ~ 2023.09
 
 LG AImers 3기 수료 / 2023.07 ~ 2023.08
 
-kernel360 / 2022.10 ~
+kernel360 / 2023.10 ~ 2024.04 
   
 
 ## 🥇 Awards 🥇
@@ -36,14 +36,14 @@ C-star 창업교육 프로그램 대상 / 2021.09.06
   
 
 ## 🔭 Paper 🔭
-Kidney segmentation through jigsaw puzzle-based self-supervised learning in abdominal CT image / 2023년도 한국멀티미디어학회 추계학술발표대회
-
+- Kidney segmentation through jigsaw puzzle-based self-supervised learning in abdominal CT image / 2023년도 한국멀티미디어학회 추계학술발표대회
+- MICCAI 2024 논문 투고 목표 (10월 예상) 
 
 
 ## 🖊️ GitHub stats
 ![jandi](./profile-3d-contrib/profile-night-rainbow.svg)
 <a href="https://github.com/devxb/gitanimals">
-    <img src = "https://render.gitanimals.org/farms/{yejincode}"/>
+    <img src = "https://render.gitanimals.org/farms/{c0olcode}"/>
 </a>
 
 
