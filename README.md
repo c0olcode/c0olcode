@@ -7,32 +7,32 @@ Backend / DevOps / MLOps (를 잘하고 싶어요)
 
 ## 💻 Experience 💻
 
-자료구조 전공과목연계 실습튜터 / 2021.03.06 ~ 2021.06.16
+- 자료구조 전공과목연계 실습튜터 / 2021.03.06 ~ 2021.06.16
 
-소프트웨어융합학과 스터디동아리 ‘Muyaho’ 팀장 / 2021.03.06 ~ 2021.06.30
+- 소프트웨어융합학과 스터디동아리 ‘Muyaho’ 팀장 / 2021.03.06 ~ 2021.06.30
 
-정보보호학과 소학회 ‘INTERLUDE’ 활동 / 2021.03.06 ~ 2021.07.01
+- 정보보호학과 소학회 ‘INTERLUDE’ 활동 / 2021.03.06 ~ 2021.07.01
 
-소프트웨어융합전공 VCMI (Visual Computing and Medical Imaging) 학부연구생 / 2022.01.01 ~ 2023.12.31
+- 소프트웨어융합전공 VCMI (Visual Computing and Medical Imaging) 학부연구생 / 2022.01.01 ~ 2023.12.31
 
-빅데이터 연합동아리 ’BOAZ’ 데이터 분석 부문 수료 (기획팀) / 2022.07 ~ 2023.07
+- 빅데이터 연합동아리 ’BOAZ’ 데이터 분석 부문 수료 (기획팀) / 2022.07 ~ 2023.07
 
-모두의 연구소 서포터즈 / 2022.09 ~ 2023.09
+- 모두의 연구소 서포터즈 / 2022.09 ~ 2023.09
 
-LG AImers 3기 수료 / 2023.07 ~ 2023.08
+- LG AImers 3기 수료 / 2023.07 ~ 2023.08
 
-kernel360 / 2023.10 ~ 2024.04 
+- kernel360 / 2023.10 ~ 2024.04 
   
 
 ## 🥇 Awards 🥇
 
-C-star 창업교육 프로그램 대상 / 2021.09.06
+- C-star 창업교육 프로그램 대상 / 2021.09.06
 
-[창업300 산학협력 EXPO 진출 / 2021.10.06](http://festival.u300.kr/cms/process/invest_2021/view.asp?c_show_no=71&c_check_no=64&c_relation=809&c_relation2=903&c_team_no=2566&c_festival_type=&s_text=wonq)
+- [창업300 산학협력 EXPO 진출 / 2021.10.06](http://festival.u300.kr/cms/process/invest_2021/view.asp?c_show_no=71&c_check_no=64&c_relation=809&c_relation2=903&c_team_no=2566&c_festival_type=&s_text=wonq)
 
-[2021 제 8회 GIST Creative Space G AI&IoT 아이디어 메이커톤 경진대회 우수상 / 2021.10.29](https://github.com/yejincode/petviews.git)
+- [2021 제 8회 GIST Creative Space G AI&IoT 아이디어 메이커톤 경진대회 우수상 / 2021.10.29](https://github.com/yejincode/petviews.git)
 
-2021 건국대학교 펫 아이디어 경진대회 대상 / 2021.12.10
+- 2021 건국대학교 펫 아이디어 경진대회 대상 / 2021.12.10
   
 
 ## 🔭 Paper 🔭
