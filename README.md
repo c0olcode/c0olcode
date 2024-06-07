@@ -35,7 +35,7 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-        <a href="https://github.com/devxb/gitanimals">
+        <a href="https://render.gitanimals.org/farms/c0olcode">
           <img src="https://render.gitanimals.org/farms/c0olcode" width="600" height="300"/>
         </a>
       </td>
