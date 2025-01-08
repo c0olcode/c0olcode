@@ -27,7 +27,6 @@
 
 ## 🔭 Paper
 - Kidney segmentation through jigsaw puzzle-based self-supervised learning in abdominal CT image / 2023년도 한국멀티미디어학회 추계학술발표대회
-- MICCAI 2024 논문 투고 목표 (10월 예상) 
 
 
 ## 🖊️ GitHub stats
