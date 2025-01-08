@@ -38,13 +38,8 @@
         <a href="https://render.gitanimals.org/farms/c0olcode">
           <img src="https://render.gitanimals.org/farms/c0olcode"/>
         </a>
-      </td>
-      <td width="50%" valign="top">
-        <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="jandi" width="100%">
-      </td>
     </tr>
   </table>
 </div>
-
 
 
