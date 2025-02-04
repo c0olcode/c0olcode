@@ -23,8 +23,7 @@
 
 ## 🎖️ Certification
 <a href="https://www.credly.com/badges/c8eabb02-0f74-4629-a0be-70c6d048c9cb/public_url">
-          <img src="https://github.com/user-attachments/assets/fd90495c-b055-4970-8ced-759ec9f206ce">
-
+          <img width=200 src="https://github.com/user-attachments/assets/7667219b-2802-457b-9bf7-edf3527de9b7">
 
 ## 🥇 Awards
 - C-star 창업교육 프로그램 대상 : 2021.09.06
