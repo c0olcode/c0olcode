@@ -22,8 +22,7 @@
 정보보호학과 소학회 ‘INTERLUDE’ 활동 : 2021.03.06 ~ 2021.07.01 -->
 
 ## 🎖️ Certification
-<a href="https://www.credly.com/badges/c8eabb02-0f74-4629-a0be-70c6d048c9cb/public_url">
-          <img width=200 src="https://github.com/user-attachments/assets/7667219b-2802-457b-9bf7-edf3527de9b7">
+<a href="https://www.credly.com/badges/c8eabb02-0f74-4629-a0be-70c6d048c9cb/public_url"><img width=200 src="https://github.com/user-attachments/assets/7667219b-2802-457b-9bf7-edf3527de9b7"/>
 
 ## 🥇 Awards
 - C-star 창업교육 프로그램 대상 : 2021.09.06
