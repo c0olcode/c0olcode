@@ -2,6 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=E3A6AE&height=200&section=header&text=c0olcode&fontSize=80" />
 </h2>
 
+
+
+
 ## ABOUT ME
 > Backend / DevOps / MLOps (를 잘하고 싶어요)
 
@@ -17,6 +20,11 @@
 <!-- 자료구조 전공과목연계 실습튜터 : 2021.03.06 ~ 2021.06.16
 소프트웨어융합학과 스터디동아리 ‘Muyaho’ 팀장 : 2021.03.06 ~ 2021.06.30
 정보보호학과 소학회 ‘INTERLUDE’ 활동 : 2021.03.06 ~ 2021.07.01 -->
+
+## 🎖️ Certification
+<a href="https://www.credly.com/badges/c8eabb02-0f74-4629-a0be-70c6d048c9cb/public_url">
+          <img src="https://github.com/user-attachments/assets/fd90495c-b055-4970-8ced-759ec9f206ce">
+
 
 ## 🥇 Awards
 - C-star 창업교육 프로그램 대상 : 2021.09.06
