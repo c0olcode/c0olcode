@@ -17,9 +17,6 @@
 2022.07 ~ 2023.07 : 빅데이터 연합동아리 ’BOAZ’ 데이터 분석 활동
 2022.09 ~ 2022.12 : 모두의 연구소 서포터즈
 ```
-<!-- 자료구조 전공과목연계 실습튜터 : 2021.03.06 ~ 2021.06.16
-소프트웨어융합학과 스터디동아리 ‘Muyaho’ 팀장 : 2021.03.06 ~ 2021.06.30
-정보보호학과 소학회 ‘INTERLUDE’ 활동 : 2021.03.06 ~ 2021.07.01 -->
 
 ## 🎖️ Certification
 <a href="https://www.credly.com/badges/c8eabb02-0f74-4629-a0be-70c6d048c9cb/public_url"><img width=200 src="https://github.com/user-attachments/assets/7667219b-2802-457b-9bf7-edf3527de9b7"/>
@@ -29,10 +26,6 @@
 - [창업300 산학협력 EXPO 진출 : 2021.10.06](http://festival.u300.kr/cms/process/invest_2021/view.asp?c_show_no=71&c_check_no=64&c_relation=809&c_relation2=903&c_team_no=2566&c_festival_type=&s_text=wonq)
 - [2021 제 8회 GIST Creative Space G AI&IoT 아이디어 메이커톤 경진대회 우수상 : 2021.10.29](https://github.com/yejincode/petviews.git)
 - 2021 건국대학교 펫 아이디어 경진대회 대상 : 2021.12.10
-  
-
-## 🔭 Paper
-- Kidney segmentation through jigsaw puzzle-based self-supervised learning in abdominal CT image / 2023년도 한국멀티미디어학회 추계학술발표대회
 
 
 ## 🖊️ GitHub stats
